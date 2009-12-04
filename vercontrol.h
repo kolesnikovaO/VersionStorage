@@ -1,7 +1,7 @@
 #define ProjectName VersionStorage
 #define VMAJOR 0
 #define VMINOR 1
-#define VSUBMINOR 00008
+#define VSUBMINOR 00009
 #define VHFNUMBER 00000
-#define X_VER_STRING 0.1.00008.00000
+#define X_VER_STRING 0.1.00009.00000
 #define X_COPYRIGHT "(C) 2021 by X, Inc. All rights reserved."
